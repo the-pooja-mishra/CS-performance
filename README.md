@@ -6,8 +6,13 @@ A dataset of 17,000 support tickets was generated using Python (Faker library) t
 Using Power BI dashboards, we converted raw data into meaningful business insights.
 
 # 🎯 Objectives
+
 ✔ Analyze ticket trends over time
+
 ✔ Measure agent performance
+
 ✔ Track SLA KPIs: response time & resolution time
+
 ✔ Understand customer satisfaction through ratings
+
 ✔ Provide actionable insights for Support Managers
