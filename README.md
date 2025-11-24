@@ -95,9 +95,11 @@ Actionable Recommendations
 - Improve self-help for login problems
 - Hire more staff during peak escalation months
 
-Dashboard Preview (https://github.com/the-pooja-mishra/CS-performance/blob/main/CSPD%20Screenshot.png)
+https://github.com/the-pooja-mishra/CS-performance/blob/main/CSPD%20Screenshot.png
 
-## Author
+### Author
 Pooja Mishra
- Aspiring Data Analyst — Skilled in Python, SQL, and Power BI
+
+Aspiring Data Analyst — Skilled in Python, SQL, and Power BI
+ 
  LinkedIn: www.linkedin.com/in/pooja-mishra-7b27191a3
