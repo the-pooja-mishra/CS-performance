@@ -43,3 +43,20 @@ It demonstrates skills in **data generation, cleaning, analysis, and visualizati
 - Reddit  
 - Facebook  
 - Instagram  
+
+## Data Cleaning (Python)
+
+- Handled Missing Values  
+- Created Response & Resolution Time  
+- Fixed “Unknown agent_id”  
+- Removed incorrect timestamps 
+
+
+
+
+
+
+
+
+
+
