@@ -51,7 +51,14 @@ It demonstrates skills in **data generation, cleaning, analysis, and visualizati
 - Fixed “Unknown agent_id”  
 - Removed incorrect timestamps 
 
+**Example — calculated fields created:**
+```python
+df['response_time_hrs'] = (df['first_response_at'] - df['created_at']).dt.total_seconds()/3600
+df['resolution_time_hrs'] = (df['resolved_at'] - df['created_at']).dt.total_seconds()/3600
+df['created_date'] = df['created_at'].dt.date
 
+# Power BI — Data Modeling + DAX
+## Key Measures:
 
 
 
