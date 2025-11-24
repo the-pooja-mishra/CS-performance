@@ -1,11 +1,11 @@
 # customer support performance dashboard
 
 ## Project Overview
-This project focuses on analyzing customer support operations to understand ticket workload, efficiency, and customer satisfaction.
-A dataset of 17,000 support tickets was generated using Python (Faker library) to simulate a real-world helpdesk environment.
-Using Power BI dashboards, we converted raw data into meaningful business insights.
 
-#  Objectives
+This project analyzes customer support efficiency and escalation trends across multiple social media channels.  
+It demonstrates skills in **data generation, cleaning, analysis, and visualization** using **Python & Power BI**.
+
+##  Objectives
 
 1. Analyze ticket trends over time
 
@@ -17,7 +17,7 @@ Using Power BI dashboards, we converted raw data into meaningful business insigh
 
 5. Provide actionable insights for Support Managers
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 
 | Phase                         | Technology            |
 | ----------------------------- | --------------------- |
@@ -26,3 +26,20 @@ Using Power BI dashboards, we converted raw data into meaningful business insigh
 | Data Modeling & Visualization | Power BI              |
 | File Formats                  | CSV                   |
 
+## Dataset Details
+
+| Feature | Values |
+|--------|--------|
+| Total Tickets | 17,000 |
+| Agents | 20 |
+| Channels | 6 |
+| Date Range | Last ~180 days |
+
+### Channels Used
+
+- Twitter  
+- Escalation Email  
+- LinkedIn  
+- Reddit  
+- Facebook  
+- Instagram  
