@@ -5,14 +5,24 @@ This project focuses on analyzing customer support operations to understand tick
 A dataset of 17,000 support tickets was generated using Python (Faker library) to simulate a real-world helpdesk environment.
 Using Power BI dashboards, we converted raw data into meaningful business insights.
 
-# 🎯 Objectives
+#  Objectives
 
-✔ Analyze ticket trends over time
+1. Analyze ticket trends over time
 
-✔ Measure agent performance
+2. Measure agent performance
 
-✔ Track SLA KPIs: response time & resolution time
+3. Track SLA KPIs: response time & resolution time
 
-✔ Understand customer satisfaction through ratings
+4. Understand customer satisfaction through ratings
 
-✔ Provide actionable insights for Support Managers
+5. Provide actionable insights for Support Managers
+
+# Tools & Technologies Used
+
+| Phase                         | Technology            |
+| ----------------------------- | --------------------- |
+| Data Generation               | Python, Faker, Pandas |
+| Data Cleaning & Processing    | Pandas, NumPy         |
+| Data Modeling & Visualization | Power BI              |
+| File Formats                  | CSV                   |
+
